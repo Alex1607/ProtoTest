@@ -1,0 +1,5 @@
+name: ProtoTest
+version: ${project.version}
+main: com.pluoi.prototest.ProtoTest
+depend:
+  - ProtocolLib
